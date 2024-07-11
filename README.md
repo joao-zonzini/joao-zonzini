@@ -1,4 +1,6 @@
-## Hi there 👋
+## Opa! 👋
+
+Meu nome é João, sou professor de Física e entusiasta de Computação. Por aqui você vai encontrar meus passatempos: simuladores de modelagem matemática e física, análises de dados, programas que facilitam minha vida, jogos e experimentações com Linux. 
 
 <!--
 **joao-zonzini/joao-zonzini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
